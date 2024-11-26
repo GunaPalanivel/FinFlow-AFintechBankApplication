@@ -134,6 +134,12 @@ Fin Flow provides a modern solution for efficient financial management. Leveragi
 
 - [Figma Design Mockup](https://www.figma.com/design/JgjPSIrFKLtT49Y2Qm5XgM/A-Fintech-Bank-Application?node-id=1-2915&t=ZKZtz2qL7ZXWoQtE-1)
 
+## Team Members
+
+- [Guna Palanivel](https://www.linkedin.com/in/guna-palanivel/)
+- [Gokul Selvaraj](https://www.linkedin.com/in/gokulselvaraj4/)
+- [Bharani V](https://www.linkedin.com/in/bharani-v-20720b276/)
+
 ## Tech Stack
 
 - [**Next.js**:](https://nextjs.org/)
